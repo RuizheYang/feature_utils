@@ -1,0 +1,5 @@
+redshift-connector
+psycopg2
+thrift
+thrift-sasl
+PyHive
